@@ -7,6 +7,8 @@ def minus(a, b):
     return a - b
 
 def divide(a, b):
+    if b ==0:
+        return "can't divide"
     return a / b
 
     
