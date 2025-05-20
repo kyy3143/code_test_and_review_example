@@ -14,7 +14,11 @@
 
 ### Added 
 
+- add power function
+
+
 - add multiply function
 
 - add divide(a,b) function
+
 
