@@ -13,4 +13,8 @@
 - Provided `README.md` with basic project information and setup instructions.
 
 ### Added 
+
 - add multiply function
+
+- add divide(a,b) function
+
